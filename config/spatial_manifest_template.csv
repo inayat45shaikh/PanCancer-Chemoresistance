@@ -1,0 +1,6 @@
+sample_id,path,cancer_type
+HTA12_22_4,data/spatial/HTA12_22_4_spatial_annotated.rds,Pancreatic
+HTA12_24_6,data/spatial/HTA12_24_6_spatial_annotated.rds,Pancreatic
+GSM5708494,data/spatial/GSM5708494_spatial_annotated.rds,Ovarian
+GSE210616_094D,data/spatial/GSE210616_094D_spatial_annotated_final.rds,Breast
+Lung,data/spatial/Lung_spatial_data_annotated.rds,Lung
