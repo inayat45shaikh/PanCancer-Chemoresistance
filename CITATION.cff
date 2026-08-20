@@ -13,6 +13,8 @@ repository-code: "https://github.com/inayat45shaikh/PanCancer-Chemoresistance"
 
 url: "https://github.com/inayat45shaikh/PanCancer-Chemoresistance"
 
+doi: "10.5281/zenodo.22028670"
+
 version: "1.0.0"
 
 date-released: "2026-08-20"
