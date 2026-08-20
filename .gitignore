@@ -1,0 +1,30 @@
+# Large R objects and local data
+*.rds
+*.RData
+*.rda
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.mtx.gz
+
+# inferCNV/SpaCET output
+output*/
+infercnv_output*/
+results/
+figures/
+
+# Local metadata that may contain patient/sample information
+annotation.txt
+*_clinical*.csv
+*_clinical*.tsv
+
+# R project/user files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS/editor
+.DS_Store
+Thumbs.db
