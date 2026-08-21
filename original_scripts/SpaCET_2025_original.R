@@ -15,8 +15,7 @@ SpaCET_obj <- readRDS("GSM5708493_SpaCET.rds") # Ovarian
 
 SpaCET_obj <- readRDS("GSM5708494_SpaCET.rds") # Ovarian
 
-seurat_obj <- readRDS("cleaned_Resistant_only_malignant_2025_ResistantScore_Pseudotime_MSigDB_19052025.rds")
-seurat_obj <- readRDS("cleaned_Resistant_only_malignant_2025_ResistantScore_pseudotime_16052025_.rds")
+seurat_obj <- readRDS("cleaned_Resistant_only_malignant.rds")
 
 # Extract raw count matrix from the epithelial cell subset
 sc_counts <- as.matrix(Seurat::GetAssayData(seurat_obj, layer = "counts"))
